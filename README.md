@@ -1,3 +1,3 @@
 # MetadataSheet
 
-This repo is not defunct. Refer to the metadata sheet in RmdTemplates
+This repo is now defunct. Refer to the metadata sheet in RmdTemplates
